@@ -1,3 +1,6 @@
+Yuniar Andwi Pinayungan
+19.11.2732
+S1-INFORMATIKA 03
 # Promos
 Aplikasi sederhana untuk study case yang diberikan dosen untuk tugas UAS. Aplikasi ini berfungsi untuk
 simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
